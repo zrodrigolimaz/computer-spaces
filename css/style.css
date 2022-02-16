@@ -2,13 +2,24 @@
 @import "/css/utilidades/tipografia.css";
 @import "/css/utilidades/cores.css";
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /* Home */ 
 @import "./home/introducao.css";
 
 
+
 /* Componentes */ 
 @import "./utilidades/componentes.css";
+
+/* Computadores */
+
+@import "./computadores/computadores-lista.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
+
 
 
 
