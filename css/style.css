@@ -19,6 +19,18 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
+/* Termos  */ 
+
+@import "./termos/termos.css";
+
+/* Computadores   */ 
+
+@import "./computadores/computadores.css";
+
+
+
+
+
 
 
 
