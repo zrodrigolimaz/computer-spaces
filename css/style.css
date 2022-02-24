@@ -13,7 +13,6 @@
 @import "./utilidades/componentes.css";
 
 /* Computadores */
-
 @import "./computadores/computadores-lista.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
@@ -26,6 +25,10 @@
 /* Computadores   */ 
 
 @import "./computadores/computadores.css";
+
+/* Computador*/
+
+@import "./computador/computador.css";
 
 
 
