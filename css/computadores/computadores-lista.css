@@ -18,6 +18,10 @@
   overflow-x: auto;
 }
 
+#computador .computadores-lista ul {
+  padding: 0px 0px 20px 0px;
+}
+
 .computadores-lista li {
   flex: 1;
   min-width: 280px;
