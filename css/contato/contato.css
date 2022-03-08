@@ -11,7 +11,7 @@
 .contato-formulario {
   padding: 60px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-  margin-bottom: 120px
+  margin-bottom: 120px;
 }
 
 .contato-dados {
@@ -27,8 +27,6 @@
 .contato-dados h2 {
   margin-bottom: 60px;
 }
-
-
 
 .contato-endereco {
   margin-bottom: 32px;
@@ -62,28 +60,24 @@
 .contato-meios a:nth-child(3) {
   background: url("../../img/icones/telefone.svg") no-repeat 0px 2px;
   margin-bottom: 60px;
-  
 }
 
 .contato-redes {
   display: flex;
   gap: 32px;
   padding-left: 28px;
-  
 }
 
-
-
-.img-container img{
+.img-container img {
   width: 100%;
   height: 100%;
-  -webkit-transition: -webkit-transform .5s ease;
-  transition: transform .5s ease;
+  -webkit-transition: -webkit-transform 0.5s ease-out;
+  transition: transform 0.5s ease;
 }
 
-.img-container:hover img{
-  -webkit-transform: scale(1.4);
-  transform: scale(1.4);
+.img-container:hover img {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 @media (max-width: 800px) {
