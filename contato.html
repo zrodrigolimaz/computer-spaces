@@ -9,6 +9,7 @@
   <link rel="preload" href="./css/style.css" as="style">
   <link rel="stylesheet" href="./css/style.css">
   <link rel="shortcut icon" href="./img/favicon.svg" type="image/svg+xml" />
+  <meta http-equiv="cache-control" content="no-cache"/>
 </head>
 
 <body id="contato">
@@ -46,7 +47,7 @@
         </div>
       </section>
       <section class="contato-formulario" aria-label="Formulário">
-        <form class="form fadeInLeft" action="./contato.html" data-anime2="1500">
+        <form class="form fadeInLeft" action="./enviar.php " method="post" data-anime2="1500">
           <div>
             <label for="nome">Nome</label>
             <input type="text" id="nome" name="nome" placeholder="Seu nome aqui">
@@ -103,6 +104,7 @@
   </footer>
   <script src="./js/plugin/simple-anime.js"></script>
   <script src="./js/script.js"></script>
+  <script src="./js/formulario.js"></script>
 </body>
 
 </html>
