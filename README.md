@@ -5,7 +5,7 @@
 ComputerSpaces - Site Oficial 
 =======================================
 
-Este repositório contém o código fonte do site oficial da RodrigoLima Computadores. O site foi construído utilizando HTML, CSS e Javascript puro (Vanilla). A intenção do site é prover uma interface amigável para a seleção e personalização de computadores montados por especialistas da RodrigoLima
+Este repositório contém o código fonte do site oficial da RodrigoLima Computadores. O site foi construído utilizando HTML, CSS e Javascript puro (Vanilla). A intenção do site é prover uma interface amigável para a seleção e personalização de computadores montados por especialistas
 
 As composições e boa parte do design são de autória pessoal,única e intransferível.
 .
@@ -23,7 +23,7 @@ As composições e boa parte do design são de autória pessoal,única e intrans
 
 -   Peças: A seção de peças apresenta os parceiros da RodrigoLima, incluindo Intel, Asus, AMD, Galax, Logitech, Nvidia e Steel Series.
 
--   Contato: Aqui estão listadas as maneiras de entrar em contato com a equipe da RodrigoLima, incluindo telefone, e-mail e endereço físico, bem como links para as redes sociais (Instagram, Facebook, YouTube).
+-   Contato: Aqui estão listadas as maneiras de entrar em contato incluindo telefone, e-mail e endereço físico, bem como links para as redes sociais (Instagram, Facebook, YouTube).
 
 -   Informações: Nesta seção, os usuários podem acessar os termos e condições, entrar em contato com o desenvolvedor ou iniciar o processo de montar seu próprio computador.
 
